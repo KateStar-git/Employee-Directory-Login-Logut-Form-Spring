@@ -1,5 +1,5 @@
 ## Employee-Directory-Login-Logut-Form-Spring Boot
-Spring MVC Security Custom Login Form with Bootstrap,Thymeleaf
+Spring MVC Security Custom Login Form with Bootstrap,Thymeleaf and with hard sewn-in Data in Code
 
 # Custom Login/Logout form 
 # Display User ID and Roles
